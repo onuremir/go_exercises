@@ -1,6 +1,6 @@
 package main
 
-import (
+import ( //factored import statement
 	"fmt"
 	"math/rand"
 	"time"
